@@ -1,0 +1,12 @@
+{
+    "name": "ftlmars/startbootstrap-simple-sidebar",
+    "description": "Bootstrap 3 Sidebar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxym Semenykhin",
+            "email": "semenihin.maksim@gmail.com"
+        }
+    ],
+    "require": {}
+}
