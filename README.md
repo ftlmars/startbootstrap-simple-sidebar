@@ -8,8 +8,8 @@ To begin using this template, choose one of the following options to get started
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/simple-sidebar/)
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-simple-sidebar.git`
 * Fork the repo
-* or composer  require ftlmars/startbootstrap-simple-sidebar:1.*
-## Bugs and Issues
+* or composer  require ftlmars/startbootstrap-simple-sidebar:1.
+* ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/simple-sidebar/).
 
