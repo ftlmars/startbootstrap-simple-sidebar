@@ -8,5 +8,10 @@
             "email": "semenihin.maksim@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "ftlmars\\sidebar\\": ""
+        }
+    },    
     "require": {}
 }
