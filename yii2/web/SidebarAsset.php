@@ -10,7 +10,7 @@ class SidebarAsset extends AssetBundle
 
     public $css = [
         'css/simple-sidebar.css',
-        'css/simple-sidebar-overlay',
+        'css/simple-sidebar-overlay.css',
     ];
 
 }
